@@ -1,15 +1,18 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Stone2333" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Stone233&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
 </a>
 
-- 👋 Hi, I’m @Stone2333
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 **I’m Stone**
 
-<!---
-Stone2333/Stone2333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning:Java,Pytest,Fastapi
+- 👀 I’m interested in testing and development
+- 💻 I’m bolg: [stonetest](https://stonetest.top)
 
+**🌟 My Skills**  
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
