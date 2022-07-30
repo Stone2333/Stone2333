@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning:Java,Pytest,Fastapi
 - 👀 I’m interested in testing and development
-- 💻 I’m bolg: [stonetest](https://stonetest.top)
+- 💻 I’m blog: [stonetest](https://stonetest.top)
 
 **🌟 My Skills**  
 
